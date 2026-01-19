@@ -1,7 +1,7 @@
 import keyboard
 import time
 from threading import Event
-
+#运行脚本：python script_name.py
 # 控制变量
 running = False
 paused = False
