@@ -1,0 +1,19 @@
+# IDE
+.idea/
+
+# PyInstaller build artifacts
+build/
+auto_e/build/
+auto_e/dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+
+# Logs
+*.log
+
+# Spec workflow
+.spec-workflow/
